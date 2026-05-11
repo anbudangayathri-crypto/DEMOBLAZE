@@ -43,6 +43,7 @@ public class TestRunner extends BaseClass {
         PageObjectManager.getPageObjectManager().getAddressPage().addressPage();
         System.out.println("HI GIT");
         System.out.println("HELLO GIT");
+        System.out.println("HELLO TESTER2");
 
     }
 }
