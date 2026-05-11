@@ -44,6 +44,7 @@ public class TestRunner extends BaseClass {
         System.out.println("HI GIT");
         System.out.println("HELLO GIT");
         System.out.println("HELLO TESTER2");
+        System.out.println("HELLO TESTER1");
 
     }
 }
