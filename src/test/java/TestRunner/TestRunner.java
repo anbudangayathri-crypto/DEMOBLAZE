@@ -41,6 +41,8 @@ public class TestRunner extends BaseClass {
         Thread.sleep(4000);
 //        screenshort(PageObjectManager.getPageObjectManager().getFileReader().getDataProperty("Screenshot"));
         PageObjectManager.getPageObjectManager().getAddressPage().addressPage();
+        System.out.println("HI GIT");
+        System.out.println("HELLO GIT");
 
     }
 }
